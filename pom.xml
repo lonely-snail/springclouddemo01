@@ -10,6 +10,7 @@
     <modules>
         <module>springcloud01-api</module>
         <module>springcloud01-provider-dept-8001</module>
+        <module>springcloud01-consumer-dept-8005</module>
     </modules>
 
 
